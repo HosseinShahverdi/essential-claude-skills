@@ -1,0 +1,11 @@
+{
+  "name": "essential-claude-skills",
+  "owner": { "name": "Mahziyar Darvishi" },
+  "plugins": [
+    {
+      "name": "essential-skills",
+      "source": "./",
+      "description": "Five practical Claude Skills for learning, mentoring, docs, security review, and context compression."
+    }
+  ]
+}

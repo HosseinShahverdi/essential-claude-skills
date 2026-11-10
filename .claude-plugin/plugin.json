@@ -1,0 +1,8 @@
+{
+  "name": "essential-skills",
+  "version": "1.0.0",
+  "description": "Five practical Claude Skills: free-resource learning roadmaps, Socratic code mentoring, README writing, security review, and context compression.",
+  "author": { "name": "Mahziyar Darvishi" },
+  "license": "MIT",
+  "keywords": ["claude-skills", "learning", "code-review", "security", "documentation"]
+}
